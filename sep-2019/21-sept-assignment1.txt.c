@@ -1,3 +1,4 @@
+//You are given a read only array of n integers from 1 to n. Each integer appears exactly once except A which appears twice and B which is missing. Return A and B. 
 #include<stdio.h>
 static int b[100];
 int main()
