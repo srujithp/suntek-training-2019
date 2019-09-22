@@ -1,3 +1,4 @@
+// Given an unsorted integer array, find the first missing positive integer. 
 #include<stdio.h>
 static int b[100];
 int main()
